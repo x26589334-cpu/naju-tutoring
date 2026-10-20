@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#b35a3c"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">나주</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#b35a3c"/><path d="M32 19 c6 0 8 6 8 10 c0 4 9 8 9 17 c0 8 -8 11 -17 11 s-17 -3 -17 -11 c0 -9 9 -13 9 -17 c0 -4 2 -10 8 -10 Z" fill="#fff"/><path d="M32 19 q0 -5 3 -8" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M35 12 q8 -4 11 2 q-7 3 -11 -2 Z" fill="#fff"/></svg>
